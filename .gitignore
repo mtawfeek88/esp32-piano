@@ -1,0 +1,26 @@
+# Arduino IDE
+*.ino.cpp
+*.ino.elf
+*.ino.hex
+*.ino.eep
+*.ino.with_bootloader.bin
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Secrets (if you add config files later)
+config.h
+secrets.h
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

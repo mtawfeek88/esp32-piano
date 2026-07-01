@@ -5,8 +5,8 @@
 #include <math.h>
 
 // -------- CONFIG --------
-const char* ssid = "H155-381_12BF";
-const char* password = "hFBhN4Bm2E8";
+const char* ssid = "xxxxxxx";
+const char* password = "xxxxxxxxxx";
 const char* speakerName = "JBL Go 4";
 
 
